@@ -296,6 +296,21 @@ a {
   color: var(--green-700);
 }
 
+.stars {
+  font-size: 1.6rem;
+  letter-spacing: 0.1rem;
+  color: var(--green-700);
+}
+
+.reviews-header {
+  margin: 16px auto 0;
+  max-width: 520px;
+  display: grid;
+  gap: 10px;
+  justify-items: center;
+  color: var(--slate-600);
+}
+
 .pill {
   display: inline-flex;
   align-items: center;
