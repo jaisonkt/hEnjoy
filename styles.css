@@ -170,6 +170,12 @@ a {
   font-size: 1.05rem;
 }
 
+.summary {
+  margin-top: 14px;
+  color: var(--slate-600);
+  font-size: 0.98rem;
+}
+
 .eyebrow {
   text-transform: uppercase;
   letter-spacing: 0.2em;
